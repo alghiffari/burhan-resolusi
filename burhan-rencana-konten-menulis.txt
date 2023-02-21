@@ -1,8 +1,11 @@
 RENCANA KONTEN BURHAN
 
 - budaya
-* mondhosiyo
-* budaya makan 
+ * mondhosiyo
+  ^ keberagaman 
+ * budaya makan 
 - bola
+  ^ manchester united 
 - romance
 - random
+- puisi 
