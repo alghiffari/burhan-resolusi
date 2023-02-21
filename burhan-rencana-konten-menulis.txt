@@ -1,8 +1,9 @@
 RENCANA KONTEN BURHAN
 
 - budaya
-* mondhosiyo
-* budaya makan 
+ * mondhosiyo
+  ^ keberagaman
 - bola
+ * manchester united
 - romance
 - random
